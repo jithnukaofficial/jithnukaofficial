@@ -118,9 +118,9 @@
 
 ---
 
-
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
-
+<h2 align="center">
+<picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+</h2>
 <h3> 🔥 Streak Stats</h3>
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jithnukaofficial&theme=tokyonight_duo" alt="jithnukaofficial" /></p>
