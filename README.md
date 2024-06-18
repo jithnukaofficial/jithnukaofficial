@@ -3,9 +3,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=24&lines=Welcome+to+my+GitHub+Profile!;Undergraduate+in+Computer+Science" /></a>
 </p>
 
-
-<br>
-
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=jithnukaofficial&label=Profile%20views&color=0047AB&style=plastic?" alt="jithnukaofficial" >
 </p>
@@ -15,7 +12,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
 - :school: I am an `Undergraduate` at [University of Westminster]([http://suez.edu.eg/ar/](https://www.westminster.ac.uk/)).
 - :student: I’m currently learning `Computer Science`
@@ -126,15 +123,11 @@
 
 <h3> 🔥 Streak Stats</h3>
 
-----	
-
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=jithnukaofficial&theme=tokyonight_duo" alt="jithnukaofficial" /></p>
 
   
 <h3>💻 GitHub Profile Stats</h3>
 
-----
-	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
 	    <img alt="jithnukaofficial's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jithnukaofficial&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
@@ -145,8 +138,6 @@
   </p>
 	
 <h3> :open_file_folder: My Repositories </h3>
-
-----
 	
 <div>
   <p align="center">
