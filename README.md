@@ -14,9 +14,9 @@
 
 <br>
 
-- :school: I am an `Undergraduate` at [University of Westminster]([http://suez.edu.eg/ar/](https://www.westminster.ac.uk/)).
-- :student: I’m currently learning `Computer Science`
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://drive.google.com/file/d/1tZpP6vTl5f1uFj-RKeC4QUqPDu0wReOn/view?usp=sharing).
+- :school: `Undergraduate` at [University of Westminster]([http://suez.edu.eg/ar/](https://www.westminster.ac.uk/)).
+- :student: Learning `Computer Science`
+- :thinking: `Job opportunity ?`, this is [MY RESUME](https://drive.google.com/file/d/1tZpP6vTl5f1uFj-RKeC4QUqPDu0wReOn/view?usp=sharing).
 <br>
 
 <h3 align="left">Connect with me:</h3>
