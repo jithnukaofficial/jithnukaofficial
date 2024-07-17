@@ -16,7 +16,7 @@
 
 - :school: `Undergraduate` at [University of Westminster]([http://suez.edu.eg/ar/](https://www.westminster.ac.uk/)).
 - :student: Learning `Computer Science`
-- :thinking: `Job opportunity ?`, this is [MY RESUME](https://drive.google.com/file/d/1tZpP6vTl5f1uFj-RKeC4QUqPDu0wReOn/view?usp=sharing).
+- :thinking: `Job opportunity ?`, this is [MY RESUME](https://drive.google.com/file/d/1Jn58w3RiWy1jwQr_0ZUfztKFBsRtFOpT/view?usp=sharing).
 <br>
 
 <h3 align="left">Connect with me:</h3>
