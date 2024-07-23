@@ -71,7 +71,7 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
    </a>
-<a href="https://youtube.com/@jithnuka10" target="_blank">
+<a href="https://wordpress.org" target="_blank">
 	<img alt="Wordpress" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/wordpress.svg" alt="ravindu layanga" height="30" width="40" /></a>
 </p>
 
