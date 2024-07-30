@@ -47,10 +47,7 @@
 	  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
   </a>
 	&emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-   </a>
-  
+   
 </p>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
