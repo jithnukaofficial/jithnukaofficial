@@ -95,7 +95,7 @@
   <a href="https://instagram.com/_jithnuka_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://youtube.com/@jithnuka10">
+  <a href="https://youtube.com/@jitha-yt">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"/>
   </a>
 </p>
