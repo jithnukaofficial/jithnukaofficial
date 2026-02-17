@@ -80,8 +80,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jithnukaofficial&show_icons=true&theme=tokyonight"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jithnukaofficial&layout=compact&theme=tokyonight"/>
+  <img src="https://raw.githubusercontent.com/jithnukaofficial/jithnukaofficial/main/assets/metrics.svg" />
 </p>
 
 ---
