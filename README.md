@@ -91,6 +91,9 @@
   <a href="https://www.linkedin.com/in/jithnuka-athurugiriya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://www.facebook.com/jithnuka.athurugiriya/">
+    <img src="https://img.shields.io/badge/Facebook-0165E1?style=plastic&logo=linkedin&logoColor=white"/>
+  </a>
   <a href="https://instagram.com/_jithnuka_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white"/>
   </a>
