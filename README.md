@@ -88,7 +88,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jithnuka-athurugiriya-81a3981b4/">
+  <a href="https://www.linkedin.com/in/jithnuka-athurugiriya/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://instagram.com/_jithnuka_">
