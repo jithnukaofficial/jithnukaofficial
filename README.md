@@ -21,7 +21,7 @@
 
 <img align="right" width="260" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
 
-- 💼 **Associate DevOps Engineer**
+- 💼 **DevOps Engineer**
 - 📡 Working in **Telecom Infrastructure & Messaging Platforms**
 - 🐳 Managing containerized production systems
 - 🖥️ Strong experience with Linux servers & Apache/PHP environments
